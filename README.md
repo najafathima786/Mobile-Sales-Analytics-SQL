@@ -27,62 +27,62 @@ The project uses a normalized star schema consisting of:
 ## ❓ Business Questions & Insights
 
 ### 1. 📍 List all the states with customers who purchased phones from 2005 onward.
-📷 ![Solution](Q1.png)
+📷 ![Solution](q1.png)
 
 
 
 ---
 
 ### 2. 📱 Which U.S. state buys the most 'Samsung' phones?
-📷 ![Solution](Q2.png)
+📷 ![Solution](q2.png)
 
 
 ---
 
 ### 3. 📦 Transactions by model per ZIP code per state
-📷 ![Solution](Q3.png)
+📷 ![Solution](q3.png)
 
 
 ---
 
 ### 4. 💸 What is the cheapest cellphone? (Include price)
-📷 ![Solution](Q4.png)
+📷 ![Solution](q4.png)
 
 
 ---
 
 ### 5. 📊 Average price per model among top 5 manufacturers by quantity
-📷 ![Solution](Q5.png)
+📷 ![Solution](q5.png)
 
 
 ---
 
 ### 6. 🧾 Customers with avg. spend > ₹500 in 2009
-📷 ![Solution](Q6.png)
+📷 ![Solution](q6.png)
 
 
 ---
 
 ### 7. 🔁 Any model in top 5 quantity-wise for **2008, 2009, and 2010** simultaneously
-📷 ![Solution](Q7.png)
+📷 ![Solution](q7.png)
 
 
 ---
 
 ### 8. 🥈 Second top manufacturer by sales in **2009 and 2010**
-📷 ![Solution](Q8.png)
+📷 ![Solution](q8.png)
 
 
 ---
 
 ### 9. 📉 Manufacturers who sold phones in **2010 but not in 2009**
-📷 ![Solution](Q9.png)
+📷 ![Solution](q9.png)
 
 
 ---
 
 ### 10. 💼 Top 100 customers: Avg. spend, quantity by year, % change in spend
-📷![Solution](Q10.png)
+📷![Solution](q10.png)
 
 
 ---
